@@ -14,3 +14,10 @@ This is a simple Weather App built using Python and Tkinter. The app allows user
 1. Clone the repository:
    ```bash
    git clone https://github.com/Sambhavi-Roy/Weather_Forecast-The-Tech-Highs-Pvt.-Ltd..git
+
+
+## References
+
+https://www.geeksforgeeks.org/weather-app-in-python-using-tkinter-module/
+
+
